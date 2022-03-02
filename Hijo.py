@@ -1,0 +1,3 @@
+import Padre
+
+print(locals())
